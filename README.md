@@ -6,10 +6,10 @@ Customer churn refers to the process of customers discontinuing their use of a p
 This project aims to develop a machine learning model to predict customer churn based on historical data. The primary goal is to identify customers who are at risk of leaving and to enable businesses to take corrective action. By understanding customer behavior patterns, the model can help businesses reduce churn and improve customer loyalty.
 
 ## 🔴 How It Works? 
-1)Data Collection: Customer demographic, transactional, and interaction data is collected.
-2)Feature Engineering: Key features that influence churn, such as customer activity, service usage, support interactions, and subscription details, are extracted.
-3)Modeling: A supervised machine learning model is trained to predict churn. Algorithms like Logistic Regression, Decision Trees, Random Forest, or Gradient Boosting Machines (GBM) can be used.
-4)Prediction: The model outputs a probability that a customer will churn, which allows businesses to prioritize retention efforts.
+-Data Collection: Customer demographic, transactional, and interaction data is collected.
+-Feature Engineering: Key features that influence churn, such as customer activity, service usage, support interactions, and subscription details, are extracted.
+-Modeling: A supervised machine learning model is trained to predict churn. Algorithms like Logistic Regression, Decision Trees, Random Forest, or Gradient Boosting Machines (GBM) can be used.
+-Prediction: The model outputs a probability that a customer will churn, which allows businesses to prioritize retention efforts.
 
 ## 🔴 Key Features of the Model:
 1)Churn Prediction: Predicts whether a customer is likely to churn or not.
